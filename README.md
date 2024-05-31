@@ -1,1 +1,1 @@
-## This is a machine learning object detection model consisting of a lot of classes. This project is saved in this repository to ensure I can access it anytime and all the credit for buiilding this project goes to Lecturer from my university, Dr. Fakhreldin Saeed. 
+## This is a machine learning object detection project consisting of a lot of classes. This project is saved in this repository to ensure I can access it anytime and all the credit for buiilding this project goes to my Lecturer from my university, Dr. Fakhreldin Saeed. 
